@@ -1,0 +1,14 @@
+client
+dev tun
+proto udp
+remote 1.1.1.1
+resolv-retry infinite
+key-direction 1
+comp-lzo yes
+nobind
+auth-nocache
+persist-key
+persist-tun
+
+tun-mtu 1500
+mssfix 1300
