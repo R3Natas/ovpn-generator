@@ -1,7 +1,7 @@
 #!/bin/bash
 # Simple script created for automated OpenVPN profiles generation
 # This script creates user certificates and generates .ovpn profile later on
-# (c) Natanielius Sochinas, 2019
+# (c) R3Natas, 2019
 
 read -p "Please type user name you want to generate certificate for: " user
 
